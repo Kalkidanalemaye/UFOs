@@ -47,13 +47,11 @@ if (date) {
 // @NOTE: If no date was entered, then filteredData will
 // just be the original tableData.
 buildTable(filteredData);
+}
 
-// Attach an event to listen for the form button
 d3.select("#filter-btn").on("click", handleClick);
 
 // Build the table when the page loads
 buildTable(tableData);
-
-}
 
 
