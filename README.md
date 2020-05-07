@@ -24,8 +24,7 @@ e. Shape
 
 The following screenshots of the website show the website as it is and once the filters are applied.
 
-![Website](static/img/UFO Sighting site)
-![site](static/img/Data for site)
-![site](static/img/filtered data)
-
+![Website](https://github.com/Kalkidanalemaye/UFOs/blob/master/Challenge/static/img/UFO%20Sighting%20site%20.jpg)
+![site](https://github.com/Kalkidanalemaye/UFOs/blob/master/Challenge/static/img/Data%20for%20site%20.jpg)
+![site](https://github.com/Kalkidanalemaye/UFOs/blob/master/Challenge/static/img/filtered%20data%20.jpg)
 
