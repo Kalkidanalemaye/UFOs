@@ -15,12 +15,16 @@ In this challenge, I created additional filters for the webpage. The advanced fi
 Filter Data using the following columns
 
 a. Date
+
 b. City
+
 c. State
+
 d. Country
+
 e. Shape
 
-#### The webpage I have redesigned users can achieve filtered data using 2 or more filters. In addition, the filters appear on top of the table as a header to enhance the view of the data.
+#### The webpage I have redesigned allows users to achieve filtered data using 2 or more filters. In addition, the filters appear on top of the table as a header to enhance the view of the data.
 
 The following screenshots of the website show the website as it is and once the filters are applied.
 
